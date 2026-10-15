@@ -1,0 +1,29 @@
+{
+  "name": "medusa",
+  "displayName": "Medusa",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your Medusa Cloud account to read your stores' orders, products, customers, and custom API routes, and get answers from the Medusa docs.",
+  "author": {
+    "name": "Medusa"
+  },
+  "publisher": "Medusa",
+  "homepage": "https://docs.medusajs.com/cloud/medusa-mcp",
+  "repository": "https://github.com/medusajs/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "medusa",
+    "medusa-cloud",
+    "commerce",
+    "ecommerce",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "medusa",
+    "ecommerce",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "rules": "./rules/"
+}
